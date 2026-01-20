@@ -18,17 +18,17 @@ const TagsPage = ({
     <Content>
       <PageHeader>Tags</PageHeader>
       <ul>
-      {/* <ul style={{ "list-style-type" : "none" }}> */}
+        {/* <ul style={{ "list-style-type" : "none" }}> */}
         {
           group
-          .sort((a, b) => a.fieldValue.localeCompare(b.fieldValue))
-          .map(tag => (
-            <li key={tag.fieldValue}>
-              <StyledInLink to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                {tag.fieldValue} ({tag.totalCount})
-              </StyledInLink>
-            </li>
-          ))
+            .sort((a, b) => a.fieldValue.localeCompare(b.fieldValue))
+            .map(tag => (
+              <li key={tag.fieldValue}>
+                <StyledInLink to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                  {tag.fieldValue} ({tag.totalCount})
+                </StyledInLink>
+              </li>
+            ))
         }
       </ul>
     </Content>
@@ -62,7 +62,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(limit: 2000) {
-      group(field: frontmatter___tags) {
+      group(field: {frontmatter: {tags: SELECT}}) {
         fieldValue
         totalCount
       }

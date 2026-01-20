@@ -14,36 +14,36 @@ const TagHolder = styled.div`
 `
 
 const FooterTags = () => (
-    <StaticQuery
+  <StaticQuery
     query={graphql`
       query {
           allMarkdownRemark(limit: 2000) {
-          group(field: frontmatter___tags) {
+          group(field: {frontmatter: {tags: SELECT}}) {
               fieldValue
               totalCount
           }
           }
       }
     `}
-    render={ ( data
+    render={(data
     ) => (
-        <TagHolder>
-            {/* Popular Tags:&nbsp;  */}
-            <h4 style={{ "margin-bottom": "0px" }}>Popular Tags:</h4>
-            {
-            intersperse(
-                data.allMarkdownRemark.group
-                .sort((a, b) => a.totalCount < b.totalCount ? 1 : -1)  // Sort tags by decreasing occurrences
-                .slice(0, 10)  // Take only the top 10 most used tags
-                .map(tag => (
-                    <StyledInLink to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                    {tag.fieldValue} ({tag.totalCount})
-                    </StyledInLink>
-                )),
+      <TagHolder>
+        {/* Popular Tags:&nbsp;  */}
+        <h4 style={{ "margin-bottom": "0px" }}>Popular Tags:</h4>
+        {
+          intersperse(
+            data.allMarkdownRemark.group
+              .sort((a, b) => a.totalCount < b.totalCount ? 1 : -1)  // Sort tags by decreasing occurrences
+              .slice(0, 10)  // Take only the top 10 most used tags
+              .map(tag => (
+                <StyledInLink to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                  {tag.fieldValue} ({tag.totalCount})
+                </StyledInLink>
+              )),
             ', '
-            )
-            } 
-        </TagHolder>
+          )
+        }
+      </TagHolder>
     )}
   />
 )
@@ -96,13 +96,4 @@ FooterTags.propTypes = {
 
 export default FooterTags;
 
-// export const pageQuery = graphql`
-//   query {
-//     allMarkdownRemark(limit: 2000) {
-//       group(field: frontmatter___tags) {
-//         fieldValue
-//         totalCount
-//       }
-//     }
-//   }
-// `
+

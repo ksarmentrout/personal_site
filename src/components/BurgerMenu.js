@@ -2,7 +2,7 @@
 import { Link } from "gatsby"
 import styled from "@emotion/styled"
 import React from "react"
-import { OutboundLink } from "gatsby-plugin-google-analytics"
+import { OutboundLink } from "gatsby-plugin-google-gtag"
 import "./BurgerMenu.css"
 
 const NavLink = styled(Link)`
@@ -56,40 +56,40 @@ const ExternalLink = styled(OutboundLink)`
 `
 
 export default () => (
-    <div className="burger-menu">
-      <ul className="burger-ul">
-        <li>
-            <NavLink to="/">Main</NavLink>
-        </li>
-        <li>
-            <NavLink to="/about">About</NavLink>
-        </li>
-        <li>
-            <NavLink to="/blog">Blog</NavLink>
-        </li>
-        <li>
-            <NavLink to="/works">Works</NavLink>
-        </li>
-        <li>
-            <ExternalLink href="https://mossives.com">
-                Music
-            </ExternalLink>
-        </li>
-        <li>
-            <ExternalLink href="https://are.na/keaton-armentrout/">
-                Are.na
-            </ExternalLink>
-        </li>
-        <li>
-            <ExternalLink href="https://github.com/ksarmentrout">
-                GitHub
-            </ExternalLink>
-        </li>
-        <li>
-            <ExternalLink href="https://twitter.com/keaton_sa/">
-                Twitter
-            </ExternalLink>
-        </li>
-      </ul>
-    </div>
-  );
+  <div className="burger-menu">
+    <ul className="burger-ul">
+      <li>
+        <NavLink to="/">Main</NavLink>
+      </li>
+      <li>
+        <NavLink to="/about">About</NavLink>
+      </li>
+      <li>
+        <NavLink to="/blog">Blog</NavLink>
+      </li>
+      <li>
+        <NavLink to="/works">Works</NavLink>
+      </li>
+      <li>
+        <ExternalLink href="https://mossives.com">
+          Music
+        </ExternalLink>
+      </li>
+      <li>
+        <ExternalLink href="https://are.na/keaton-armentrout/">
+          Are.na
+        </ExternalLink>
+      </li>
+      <li>
+        <ExternalLink href="https://github.com/ksarmentrout">
+          GitHub
+        </ExternalLink>
+      </li>
+      <li>
+        <ExternalLink href="https://twitter.com/keaton_sa/">
+          Twitter
+        </ExternalLink>
+      </li>
+    </ul>
+  </div>
+);

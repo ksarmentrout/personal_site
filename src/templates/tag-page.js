@@ -10,9 +10,8 @@ import SEO from "../components/seo"
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
   const { edges, totalCount } = data.allMarkdownRemark
-  const tagHeader = `${totalCount} post${
-    totalCount === 1 ? "" : "s"
-  } tagged with "${tag}"`
+  const tagHeader = `${totalCount} post${totalCount === 1 ? "" : "s"
+    } tagged with "${tag}"`
 
   return (
     <Layout>
@@ -20,15 +19,15 @@ const Tags = ({ pageContext, data }) => {
       <Content>
         <PageHeader>{tagHeader}</PageHeader>
         <ul>
-        {/* <ul style={{ "list-style-type" : "none" }}> */}
-            {edges.map(({ node }) => {
+          {/* <ul style={{ "list-style-type" : "none" }}> */}
+          {edges.map(({ node }) => {
             const { title, path } = node.frontmatter
             return (
-                <li key={title}>
+              <li key={title}>
                 <StyledInLink to={path}>{title}</StyledInLink>
-                </li>
+              </li>
             )
-            })}
+          })}
         </ul>
         <div style={{ 'text-align': 'center' }}>
           <StyledInLink to="/tags">All tags</StyledInLink>
@@ -64,7 +63,7 @@ export const pageQuery = graphql`
   query($tag: String) {
     allMarkdownRemark(
       limit: 2000
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
       filter: { frontmatter: { tags: { in: [$tag] } } }
     ) {
       totalCount
