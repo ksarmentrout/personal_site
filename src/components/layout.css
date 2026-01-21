@@ -185,10 +185,18 @@ textarea {
   -webkit-appearance: button;
   font: inherit;
 }
+html,
+body,
+#___gatsby,
+#___gatsby > * {
+  min-height: 100vh;
+}
+
 html {
   font: 112.5%/1.45em georgia, serif;
   box-sizing: border-box;
   overflow-y: scroll;
+  background-color: #f9f8f0;
 }
 * {
   box-sizing: inherit;
