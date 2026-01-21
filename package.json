@@ -11,7 +11,6 @@
     "@theme-ui/mdx": "^0.17.4",
     "ajv": "^8.17.1",
     "gatsby": "^5.14.0",
-    "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-emotion": "^8.14.0",
     "gatsby-plugin-feed": "^5.14.0",
     "gatsby-plugin-google-gtag": "^5.14.0",
@@ -24,7 +23,6 @@
     "gatsby-plugin-theme-ui": "^0.17.4",
     "gatsby-plugin-twitter": "^5.14.0",
     "gatsby-plugin-typography": "^5.14.0",
-    "gatsby-plugin-use-dark-mode": "^1.1.2",
     "gatsby-remark-embed-video": "^3.2.1",
     "gatsby-remark-images": "^7.14.0",
     "gatsby-remark-prismjs": "^7.14.0",
@@ -32,9 +30,11 @@
     "gatsby-source-filesystem": "^5.14.0",
     "gatsby-transformer-remark": "^6.14.0",
     "gatsby-transformer-sharp": "^5.14.0",
+    "lodash": "^4.17.21",
     "prism-themes": "^1.9.0",
     "prismjs": "^1.29.0",
     "prop-types": "^15.8.1",
+    "qs": "^6.14.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
@@ -45,8 +45,7 @@
     "typeface-nunito": "1.1.13",
     "typography": "^0.16.21",
     "typography-plugin-code": "^0.16.19",
-    "typography-theme-moraga": "^0.16.19",
-    "use-dark-mode": "^2.3.1"
+    "typography-theme-moraga": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "^3.1.0"
