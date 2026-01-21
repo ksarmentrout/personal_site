@@ -32,6 +32,7 @@ exports.createPages = ({ graphql, actions }) => {
       postsRemark: allMarkdownRemark {
         edges {
           node {
+            id
             frontmatter {
               path
               draft
@@ -65,7 +66,9 @@ exports.createPages = ({ graphql, actions }) => {
           path: node.frontmatter.path,
           component: blogPostTemplate,
           slug: node.fields.slug,
-          // context: {},
+          context: {
+            id: node.id,
+          },
         })
       })
 

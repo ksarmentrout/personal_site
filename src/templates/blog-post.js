@@ -54,44 +54,44 @@ const MarkdownContent = styled.div`
 export default ({ data }) => {
   const post = data.markdownRemark
   const image = post.frontmatter.image
-      ? post.frontmatter.image.childImageSharp.resize
-      : null
+    ? post.frontmatter.image.childImageSharp.resize
+    : null
 
   return (
     <>
-    <Layout>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-        pathname={post.frontmatter.path}
-        image={image}
-      />
-      <Content>
-        <ArticleHeader>{post.frontmatter.title}</ArticleHeader>
-        <HeaderDate>
-          {post.frontmatter.date} - {post.fields.readingTime.text}
-        </HeaderDate>
-        <MarkdownContent dangerouslySetInnerHTML={{ __html: post.html }} />
-        <TagList>
-          Tags: {
-            post.frontmatter.tags && 
-            intersperse(post.frontmatter.tags.map(tag => (
-              <StyledInLink to={`/tags/${kebabCase(tag)}/`}>
-                {tag}
-              </StyledInLink>
-          )), ', ')
-          } 
-        </TagList>
-      </Content>
-    <BlogFooter></BlogFooter>
-    </Layout>
+      <Layout>
+        <SEO
+          title={post.frontmatter.title}
+          description={post.frontmatter.description || post.excerpt}
+          pathname={post.frontmatter.path}
+          image={image}
+        />
+        <Content>
+          <ArticleHeader>{post.frontmatter.title}</ArticleHeader>
+          <HeaderDate>
+            {post.frontmatter.date} - {post.fields.readingTime.text}
+          </HeaderDate>
+          <MarkdownContent dangerouslySetInnerHTML={{ __html: post.html }} />
+          <TagList>
+            Tags: {
+              post.frontmatter.tags &&
+              intersperse(post.frontmatter.tags.map(tag => (
+                <StyledInLink to={`/tags/${kebabCase(tag)}/`}>
+                  {tag}
+                </StyledInLink>
+              )), ', ')
+            }
+          </TagList>
+        </Content>
+        <BlogFooter></BlogFooter>
+      </Layout>
     </>
   )
 }
 
 export const pageQuery = graphql`
-  query($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query($id: String!) {
+    markdownRemark(id: { eq: $id }) {
       html
       excerpt(pruneLength: 160)
       frontmatter {
