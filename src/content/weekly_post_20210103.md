@@ -2,7 +2,7 @@
 title: "Post 007: New Models of Music Release Pt. 1 - Abundance"
 date: "2021-01-03"
 draft: False
-path: "/writing/new-models-of-music-release-pt-1-abundance"
+path: "/writing/007-new-models-of-music-release-pt-1-abundance"
 featuredImage: "../images/cards/weekly_post_007_card.png"
 tags: ["music", "ML", "generative art", "abundance"]
 ---

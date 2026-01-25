@@ -2,7 +2,7 @@
 title: "Post 006: Buying Tweets"
 date: "2020-12-27"
 draft: False
-path: "/writing/weekly-post-006"
+path: "/writing/006-buying-tweets"
 featuredImage: "../images/cards/weekly_post_006_card.png"
 tags: ["NFTs", "Twitter", "cryptocurrency", "digital ownership", "blockchain", "digital art"]
 ---
