@@ -2,7 +2,7 @@
 title: "Weekly Post 000: Intro"
 date: "2020-11-15"
 draft: False
-path: "/blog/weekly-post-000"
+path: "/writing/weekly-post-000"
 featuredImage: "../images/cards/weekly_post_000_card.png"
 tags: ["weekly post"]
 ---

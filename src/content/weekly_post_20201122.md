@@ -2,7 +2,7 @@
 title: "Weekly Post 001: Wisdom of the Flock"
 date: "2020-11-22"
 draft: False
-path: "/blog/weekly-post-001"
+path: "/writing/weekly-post-001"
 featuredImage: "../images/cards/weekly_post_001_card.png"
 tags: ["weekly post", "digital art", "Twitter", "personal project", "collective intelligence"]
 ---
@@ -48,7 +48,7 @@ This is my first attempt at what I'd consider a digital art piece, and I'm hopin
 
 ## Reading
 
-- Finished reading [Geography of Home](https://www.goodreads.com/book/show/162712.Geography_of_Home) by Akiko Busch this past week, which was lovely, if dated at times. I talked about it a little bit [last week](https://ksarmentrout.com/blog/weekly-post-11-15-20). It was helpful for inspiring some meditation on how we interact with the spaces in our homes and what they mean, especially given how much time we're all spending at home.
+- Finished reading [Geography of Home](https://www.goodreads.com/book/show/162712.Geography_of_Home) by Akiko Busch this past week, which was lovely, if dated at times. I talked about it a little bit [last week](https://ksarmentrout.com/writing/weekly-post-000). It was helpful for inspiring some meditation on how we interact with the spaces in our homes and what they mean, especially given how much time we're all spending at home.
 - I've started into [Underland](https://www.goodreads.com/book/show/53121631-underland) by Robert Macfarlane which I'm looking forward to. I've always found works of art centered around time to be very compelling, like the [Future Library Project](http://futurelibrary.no/) and [As Slow As Possible](https://en.wikipedia.org/wiki/As_Slow_as_Possible), and this book seems to be an exploration of deep time and our place within it.
 
 

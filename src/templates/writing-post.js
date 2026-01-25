@@ -9,8 +9,8 @@ import SEO from "../components/seo"
 import { StyledInLink } from "../components/style-blocks"
 import { intersperse } from "../utils/helpers"
 
-import "./blog_post.css"
-import BlogFooter from "../components/blog_footer"
+import "./writing_post.css"
+import WritingFooter from "../components/writing_footer"
 
 const Content = styled.div`
   margin: 0 auto;
@@ -83,7 +83,7 @@ export default ({ data }) => {
             }
           </TagList>
         </Content>
-        <BlogFooter></BlogFooter>
+        <WritingFooter></WritingFooter>
       </Layout>
     </>
   )

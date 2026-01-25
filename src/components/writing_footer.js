@@ -27,15 +27,15 @@ const LinkStack = styled.div`
   align-items: center;
 `
 
-const BlogFooter = () => {
-  
+const WritingFooter = () => {
+
   return (
   <div>
     <Divider></Divider>
     <Footer>
         <LinkStack>
           <h4 style={{ "margin-bottom": "0px" }}>Navigation:</h4>
-          <StyledInLink to="/blog">Blog Home</StyledInLink>
+          <StyledInLink to="/writing">Writing Home</StyledInLink>
           <StyledInLink to="/tags">All Tags</StyledInLink>
           <StyledInLink to="/rss.xml">RSS Feed</StyledInLink>
         </LinkStack>
@@ -45,4 +45,4 @@ const BlogFooter = () => {
   )
 }
 
-export default BlogFooter
+export default WritingFooter

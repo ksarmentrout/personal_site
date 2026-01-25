@@ -2,7 +2,7 @@
 title: "Weekly Post 009: Building Better Online Spaces"
 date: "2021-01-17"
 draft: False
-path: "/blog/building-better-online-spaces"
+path: "/writing/building-better-online-spaces"
 featuredImage: "../images/cards/weekly_post_009_card.png"
 tags: ["weekly post", "online", "spaces", "communities", "social media"]
 ---

@@ -2,7 +2,7 @@
 title: "Weekly Post 004: Music and Spaces"
 date: "2020-12-13"
 draft: False
-path: "/blog/weekly-post-004"
+path: "/writing/weekly-post-004"
 featuredImage: "../images/cards/weekly_post_004_card.png"
 tags: ["weekly post", "music", "spaces", ]
 ---
@@ -75,7 +75,7 @@ Can music ever be fully decontextualized? No, and that's a good thing. Recording
 # Reading
 
 - This week I read *A place that exists only in moonlight* by one of my favorite artists, [Katie Paterson](http://katiepaterson.org/). She's the artist behind the inspiring [Future Library Project](https://futurelibrary.no) (which if I haven't talked about so far, I certainly will again), and this book reads as a precisely-written inventory of [ideas](http://katiepaterson.org/portfolio/ideas/), showcasing her wonderfully inventive cross-medium thinking. Each page has a three-line description of an idea, the book's title being one example. Some favorites include "A wave machine hidden inside the sea" and "A lifetime of air extracted from ancient ice." You can [buy a unique digital copy](https://www.justgiving.com/fundraising/katie-patersonideas) with proceeds going to Scottish Women's Aid.
-- I finally finished the last half of *A Responsibility to Awe* by Rebecca Elson that I discussed in [Weekly Post 002](https://ksarmentrout.com/blog/weekly-post-002). The second half consisted of curated excerpts from her notebook, showing her iterative process developing themes and containing beautiful unpublished poems. I recommend this book in general, but especially to anyone in STEM interested in seeing their field masterfully romanticized.
+- I finally finished the last half of *A Responsibility to Awe* by Rebecca Elson that I discussed in [Weekly Post 002](https://ksarmentrout.com/writing/weekly-post-002). The second half consisted of curated excerpts from her notebook, showing her iterative process developing themes and containing beautiful unpublished poems. I recommend this book in general, but especially to anyone in STEM interested in seeing their field masterfully romanticized.
 
 Until next time,
 

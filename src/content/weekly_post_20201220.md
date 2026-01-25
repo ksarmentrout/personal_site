@@ -2,7 +2,7 @@
 title: "Weekly Post 005: Christmas Break"
 date: "2020-12-20"
 draft: False
-path: "/blog/weekly-post-005"
+path: "/writing/weekly-post-005"
 featuredImage: "../images/cards/weekly_post_005_card.png" 
 tags: ["weekly post"]
 ---

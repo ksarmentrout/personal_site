@@ -65,7 +65,7 @@ export default () => (
         <NavLink to="/about">About</NavLink>
       </li>
       <li>
-        <NavLink to="/blog">Blog</NavLink>
+        <NavLink to="/writing">Writing</NavLink>
       </li>
       <li>
         <NavLink to="/works">Works</NavLink>

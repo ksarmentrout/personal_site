@@ -2,7 +2,7 @@
 title: "Weekly Post 002: Acknowledge the Stars, Acknowledge the Land"
 date: "2020-11-29"
 draft: False
-path: "/blog/weekly-post-002"
+path: "/writing/weekly-post-002"
 featuredImage: "../images/cards/weekly_post_002_card.png"
 tags: ["weekly post", "spaces", "poetry", "deep time"]
 ---

@@ -95,12 +95,9 @@ const Header = () => (
         <ExternalLink href="https://mossives.bandcamp.com/album/forms">
           Music
         </ExternalLink>
-        <NavLink to="/blog">Blog</NavLink>
+        <NavLink to="/writing">Writing</NavLink>
         <NavLink to="/works">Works</NavLink>
         <Divider>|</Divider>
-        <ExternalLink href="https://twitter.com/keaton_sa/">
-          Twitter
-        </ExternalLink>
         <ExternalLink href="https://are.na/keaton-armentrout/">
           Are.na
         </ExternalLink>
