@@ -3,7 +3,7 @@ title: "Post 006: Buying Tweets"
 date: "2020-12-27"
 draft: False
 path: "/writing/006-buying-tweets"
-featuredImage: "../images/cards/weekly_post_006_card.png"
+featuredImage: "../../images/blog/cards/wp_006_card.png"
 tags: ["NFTs", "Twitter", "cryptocurrency", "digital ownership", "blockchain", "digital art"]
 ---
 
@@ -72,7 +72,7 @@ The world of crypto art and NFTs in general have already generated new concepts 
 - Bitcoin keeps breaking all-time highs. Just wanted to mention.
 - The Beaufort wind scale as poetry ([posted by @nontanne](https://twitter.com/nontanne/status/1342332499679182848?s=12)):
 
-    ![wind_scale](../images/wind_scale.jpeg)
+    ![wind_scale](../../images/blog/wind_scale.jpeg)
 
 Until next time,
 

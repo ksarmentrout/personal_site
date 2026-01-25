@@ -3,7 +3,7 @@ title: "Post 003: Worlding and Gaming"
 date: "2020-12-06"
 draft: False
 path: "/writing/003-worlding-and-gaming"
-featuredImage: "../images/cards/weekly_post_003_card.png"
+featuredImage: "../../images/blog/cards/wp_003_card.png"
 tags: ["spaces", "worldbuilding", "games", "digital art", "gaming"]
 ---
 
@@ -21,7 +21,7 @@ First, it promises to survive its creator. If J.K. Rowling dies tomorrow, there 
 
 Second, it continues to generate drama, meaning it stays interesting! Cheng's definition of drama includes "problems that trigger interesting new paths in a World, that arouse its members in unexpected ways, without causing total collapse." Even if the plot lines of the original series protagonists have "ended" within their original scope, more characters and adventures can be soundly set within the World without destroying it by stretching it too far away from its original formulation. It's robust. The canonical addition of "Harry Potter and the Cursed Child" is the most direct example of this: continued drama within a cohesive World. 
 
-![a magical walk through Hogsmeade](../images/harry_potter_wizarding_world.png)
+![a magical walk through Hogsmeade](../../images/blog/harry_potter_wizarding_world.png)
 
 ---
 
@@ -35,7 +35,7 @@ Here's where it broadens out: a lot of things can fall under the scope of "inter
 
 Ian Hubert, a wizard with 3-D modeling software Blender, has a phenomenal talk on [World Building in Blender](https://www.youtube.com/watch?v=whPWKecazgM) in which he discusses his mindset behind modeling objects in an environment. In his case the end result is for a declarative container like a movie, but the line of questioning is exactly the same: what are the rules of the world that led to the specific features of this object, and what implications do they have on others? 
 
-!["END OF SUMMER TRE SALE OPEN SATURDAY"](../images/ian_hubert_sign_reader.png)
+!["END OF SUMMER TRE SALE OPEN SATURDAY"](../../images/blog/ian_hubert_sign_reader.png)
 
 In his talk he mentions small details about the world like the buildup of oils on a part of a door people walk through every day, or wet footprints diverging across a floor. He also talks about reader boards like in the image above: that particular sign hasn't changed in years so he enjoys watching the message cycle in and out of relevance "like an old friend." If that's the interactive (and admittedly also declarative, though just barely) container you're given, what does it tell you about the world surrounding it? About the success of that business in the area, or about the person running it? 
 
@@ -45,7 +45,7 @@ Ultimately, both declarative and interactive containers are needed to completely
 
 > If you value the pragmatic realization of the eventual World: interactive container > declarative container. If you value the fantastical potential of the eventual World: declarative container > interactive container.
 
-!["LAZY EXPOSITION BANNED"](../images/ian_hubert_newspapers.png)
+!["LAZY EXPOSITION BANNED"](../../images/blog/ian_hubert_newspapers.png)
 
 ---
 
@@ -57,7 +57,7 @@ The stream was technically the main event, but the accompanying subreddit was wh
 
 The Pokemon game at Twitch Plays Pokemon (TPP)'s core *is* an interactive container, but the structure around it added another level of interactivity, effectively using Pokemon Red as a basis for a new vibrant, alive, derivative world where people rapidly generated supplementary declarative containers like fan art and meta-narratives to flesh out the world. You could say that TPP was a world with extremely loose creator's hold, which [survived its creator](https://www.polygon.com/2019/2/12/18221792/twitch-plays-pokemon-anniversary) and continued to create drama with a community able to run wild with its own reinterpretations. 
 
-![Praise Helix!](../images/tpp_anarchy_democracy.png)
+![Praise Helix!](../../images/blog/tpp_anarchy_democracy.png)
 
 Six years on and the streaming world is hugely influential, to say the least. An article talking about "[gamerbait](https://8ball.substack.com/p/gamerbait)" points to the influx of musicians and brands bringing gaming culture into the fold of their own content, from [Balenciaga launching a video game](https://videogame.balenciaga.com/) to concerts in Fortnite by [Marshmello](https://www.youtube.com/watch?v=NBsCzN-jfvA) and [Travis Scott](https://www.youtube.com/watch?v=wYeFAlVC8qU). The motivating reason behind these big moves though is because:
 
@@ -67,7 +67,7 @@ Put another way, the primary social focal points for gen z have moved from decla
 
 Streaming itself is a practice of Worlding by building additional declarative and interactive containers around a central world. This is why there can be so many successful streamers who stream the same games, because the worlds they've each created live within the community, the fan art, and the narratives collaboratively built between the chat and the streamer spanning across multiple game arcs. The "original interactive container" being streamed defines a world in its own right, but also serves as a backdrop to numerous meta-worlds being built on its shoulders.
 
-![I worry I'm already dating myself by thinking this Ninja/Drake Fortnite stream screenshot is relevant](../images/ninja_drake_fortnite_stream.png)
+![I worry I'm already dating myself by thinking this Ninja/Drake Fortnite stream screenshot is relevant](../../images/blog/ninja_drake_fortnite_stream.png)
 
 In the Small Stuff section of my [first post](https://ksarmentrout.com/writing/001-wisdom-of-the-flock) I mentioned the book [Games: Agency as Art](https://global.oup.com/academic/product/games-9780190052089?cc=us&lang=en&#) by C. Thi Nguyen, in which he talks about the set of games as providing a toolbox for different types of agency. By playing different games and adapting to different rulesets, we are stretching our concepts of how we interact with the world by "trying on" different methods of doing so. The same is happening here: by using interactive containers like video games as a basis for building up an online community, we're able to practice building up different Worlds around them, and further able to experience different Worlds by bouncing between many different streamer communities, each with their own drama, rules, and aliveness. 
 

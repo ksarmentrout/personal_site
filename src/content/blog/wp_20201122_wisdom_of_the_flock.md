@@ -3,7 +3,7 @@ title: "Post 001: Wisdom of the Flock"
 date: "2020-11-22"
 draft: False
 path: "/writing/001-wisdom-of-the-flock"
-featuredImage: "../images/cards/weekly_post_001_card.png"
+featuredImage: "../../images/blog/cards/wp_001_card.png"
 tags: ["digital art", "Twitter", "personal project", "collective intelligence"]
 ---
 
@@ -13,7 +13,7 @@ What started the project was a tweet about how some user with a relatively large
 
 There's a specific kind of question I was interested in though: a question that required some moral or value judgement about how someone is supposed to act in the world. These are "should" questions and they're all asking some authority for guidance. On Twitter, the authority is mainly your group of followers, so I wondered what topics do people trust that group to answer for them? 
 
-!["I'm writing a song. What should be the title?"](../images/wotf_song_title.png)
+!["I'm writing a song. What should be the title?"](../../images/blog/wotf_song_title.png)
 
 I set up a Twitter bot to listen to the giant firehose of all posts in search of questions (there had to be a question mark) with phrases like "how should," "what should," and "why must" that require some kind of value judgment to answer. They're seeking a "right" answer when there isn't one. Other question formats like "where is," "what is," and "how does" are primarily seeking objective information about the world, so I ignored all of those. The interesting part to me about the "should" type of questions is that they can ultimately only be answered by the person asking them. 
 
@@ -23,7 +23,7 @@ The problem with displaying all of the raw questions would be that there are a l
 
 The goal is to display the full range of genuine questions asked with minimal overlap. These questions can be mundane, funny, political, heartbreaking, and everything in between, and they illustrate how differently people use the platform and their network on it.
 
-!["my professor wants me to add a profile picture to zoom, but i'm scared i'll get racially profiled - what should i do?"](../images/wotf_profile_picture.png)
+!["my professor wants me to add a profile picture to zoom, but i'm scared i'll get racially profiled - what should i do?"](../../images/blog/wotf_profile_picture.png)
 
 Given the range of questions, I wanted to display them one at a time. Minimal noise, no responses shown, each question given equal weight. Just asking the viewer to face the question and sit with it. 
 
@@ -33,7 +33,7 @@ As of this writing there are about 1,200 tweets being used in the live version, 
 
 This is my first attempt at what I'd consider a digital art piece, and I'm hoping to do more investigations like this into how people use online spaces. Thanks for being interested in the journey.
 
-!["what should I do to be happy?"](../images/wotf_happy.png)
+!["what should I do to be happy?"](../../images/blog/wotf_happy.png)
 
 ## Small Stuff
 

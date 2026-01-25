@@ -3,7 +3,7 @@ title: "Post 008: New Models of Music Release Pt. 2 - Scarcity"
 date: "2021-01-10"
 draft: False
 path: "/writing/008-new-models-of-music-release-pt-2-scarcity"
-featuredImage: "../images/cards/weekly_post_008_card.png"
+featuredImage: "../../images/blog/cards/wp_008_card.png"
 tags: ["music", "NFTs", "crypto", "decentralization", "music industry", "scarcity"]
 ---
 
@@ -33,7 +33,7 @@ One of the most casually overlooked yet most important downsides of relying excl
 
 Enter decentralized media. Two of the driving concepts of decentralization are individual ownership of data and a redundant network resilient to data loss, which both work to move beyond a "rent everything" economy. Central to a growing subculture of decentralization is the NFT, a unique asset minted on a blockchain that can be owned, exchanged, and resold. CryptoKitties were one of the first mainstream uses of this concept, but they've since become the primary method for creating blockchain-based artworks. 
 
-![you might be the future of music, lil guy!](../images/my_very_own_cryptokitty.png)
+![you might be the future of music, lil guy!](../../images/blog/my_very_own_cryptokitty.png)
 
 The crucial concept of the NFT is scarcity (*finally* we get to the post title!): NFTs let you  embed artificial scarcity into a digital object by assigning it a public record of existence that cannot be duplicated. There's only one true original. 
 

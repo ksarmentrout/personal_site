@@ -3,13 +3,13 @@ title: "Post 007: New Models of Music Release Pt. 1 - Abundance"
 date: "2021-01-03"
 draft: False
 path: "/writing/007-new-models-of-music-release-pt-1-abundance"
-featuredImage: "../images/cards/weekly_post_007_card.png"
+featuredImage: "../../images/blog/cards/wp_007_card.png"
 tags: ["music", "ML", "generative art", "abundance"]
 ---
 
 I remember being stunned in late 2007 when a friend told me that Radiohead put their latest album up for free. I went home from school that evening and rushed to the family computer only to find a colorful, blurry splash page with a small block of text saying the buying window had already closed. Devastating for middle-school me who didn't want to spend money but also wasn't cool enough to torrent the album. 
 
-![In Rainbows - Splash](../images/in_rainbows_splash.jpg)
+![In Rainbows - Splash](../../images/blog/in_rainbows_splash.jpg)
 
 For weeks that moment stuck with me. They were just... giving it away for free? I felt like if only I'd heard about it earlier and downloaded it, I would have been getting away with something very sneaky. What a mistake they made, I could have just put $0 and fooled the system! 
 
@@ -35,7 +35,7 @@ With primarily virtual releases, there doesn't have to be anything inherently sp
 
 In his recent article "[Early Access Artists](https://www.thejaymo.net/2020/12/08/early-access-dweb-artists/)" where that quote is from, he points primarily to the [multiple iterative versions of Kanye's "Life of Pablo"](https://www.complex.com/pigeons-and-planes/2020/02/album-changes-kanye-west-prototyping)  as the first and most influential example of music release taking on more of a software release cadence. There ended up being multiple different configurations made for different platforms and contexts, including at least 3 separate versions before the full album (with additional content changes) was made available more widely on all streaming platforms. 
 
-![Life of Pablo](../images/life_of_pablo.jpeg)
+![Life of Pablo](../../images/blog/life_of_pablo.jpeg)
 
 A different take on album revision is the "[instant deluxe edition](https://www.billboard.com/articles/columns/hip-hop/9391339/hip-hop-deluxe-edition-trend-lil-baby-uzi-vert-nav)" recently used by artists like Lil Baby and Lil Uzi Vert in 2020 to drive attention to recent releases and keep them  afloat on Billboard charts for a few weeks longer. Drastically shortening the usual delay between an album and its deluxe edition follow-up maintains the spirit of iteration rather than separating the new material into a separate release, which keeps audiences' attention on a unified project. 
 
@@ -63,7 +63,7 @@ This process of AI-assisted overproduction trimmed down by artist curation can p
 
 I'm going to stop there for now, saving the second half of this piece on scarcity in music release for next week. In the spirit of revising releases, I'll update this post to include a link when that next half is up.
 
-![In Rainbows - up to you](../images/in_rainbows_up_to_you.jpeg)
+![In Rainbows - up to you](../../images/blog/in_rainbows_up_to_you.jpeg)
 
 ---
 

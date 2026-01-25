@@ -3,7 +3,7 @@ title: "Post 009: Building Better Online Spaces"
 date: "2021-01-17"
 draft: False
 path: "/writing/009-building-better-online-spaces"
-featuredImage: "../images/cards/weekly_post_009_card.png"
+featuredImage: "../../images/blog/cards/wp_009_card.png"
 tags: ["online", "spaces", "communities", "social media"]
 ---
 
@@ -27,7 +27,7 @@ The signals are divided into four categories, indicated in the above quote (emph
 
 Each of the categories include several specific calls to action that can be used as criteria for judging existing platforms as well as used as guidelines for constructing new public online spaces. In fact, the centerpiece of this research is exactly a judgement of existing online platforms conducted by surveying over 10,000 frequent users of various platforms, representing 20 countries. I won't go through the findings here, but the main summary slide is below and the full walkthrough can be found in their [research report](https://docs.google.com/presentation/d/1lO4skPVekwciJGFYxxJBIBitFzzDSC0zL1-AvhgfeNs/edit#slide=id.gb17d07f884_0_216). The range of the platforms they chose to include means that there can't always be direct comparisons made (Google and Instagram were built for fundamentally different purposes, for example), but some of the platforms performed in ways you may expect: Twitter and Facebook scored lowest on "show reliable information" while Reddit scored highest on "cultivate belonging." 
 
-![New Public Research Summary](../images/new_public_signals.png)
+![New Public Research Summary](../../images/blog/new_public_signals.png)
 
 A question also arises about what it really means to be a "public online space." The researchers address this by saying:
 

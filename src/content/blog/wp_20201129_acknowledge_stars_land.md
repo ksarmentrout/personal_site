@@ -3,7 +3,7 @@ title: "Post 002: Acknowledge the Stars, Acknowledge the Land"
 date: "2020-11-29"
 draft: False
 path: "/writing/002-acknowledge-the-stars-acknowledge-the-land"
-featuredImage: "../images/cards/weekly_post_002_card.png"
+featuredImage: "../../images/blog/cards/wp_002_card.png"
 tags: ["spaces", "poetry", "deep time"]
 ---
 

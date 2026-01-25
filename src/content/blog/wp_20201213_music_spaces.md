@@ -3,7 +3,7 @@ title: "Post 004: Music and Spaces"
 date: "2020-12-13"
 draft: False
 path: "/writing/004-music-and-spaces"
-featuredImage: "../images/cards/weekly_post_004_card.png"
+featuredImage: "../../images/blog/cards/wp_004_card.png"
 tags: ["music", "spaces"]
 ---
 
@@ -23,7 +23,7 @@ These are possible because each of these specific locations can have a set of fe
 
 I recently read *Geography of Home* by Akiko Busch, a series of vignettes written in the early 90s for *Metropolis* magazine where each vignette is about a specific room in a stereotypical American house. While the references keep much of the writing squarely set in 1993, some of the chapters reach back into the historical contexts of each room to look at how they arrived at their current form. The most interesting historical overview has been for the front door. As our relationship between public and private spheres is constantly renegotiated and that tension plays out in our architecture, what role does the front door as a reception area have while most people with garages and side doors routinely ignore it as a matter of practicality? Or, more generally phrased by Busch, "Isn't there an enormous difference between something that is never used and something that is useless?"
 
-![Geography of Home](../images/geography_of_home.jpeg)
+![Geography of Home](../../images/blog/geography_of_home.jpeg)
 
 Reading *Geography of Home* led me to think a little more deeply about the role of the spaces I inhabit, which may become playlist prompts themselves: "music for entryways;" "songs for each street you've lived on;" "music you've heard neighbors play through the walls".
 
