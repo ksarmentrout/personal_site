@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 008: New Models of Music Release Pt. 2 - Scarcity"
+title: "Post 008: New Models of Music Release Pt. 2 - Scarcity"
 date: "2021-01-10"
 draft: False
 path: "/writing/new-models-of-music-release-pt-2-scarcity"
 featuredImage: "../images/cards/weekly_post_008_card.png"
-tags: ["weekly post", "music", "NFTs", "crypto", "decentralization", "music industry", "scarcity"]
+tags: ["music", "NFTs", "crypto", "decentralization", "music industry", "scarcity"]
 ---
 
 Last week I talked about new models of releasing music styled as abundance. This came in two categories: 1) a public iterative process where there is no single, final version but rather a series of releases and revisions; 2) using generative machine learning tools to turn a track into an elongated and evolving piece of content. 

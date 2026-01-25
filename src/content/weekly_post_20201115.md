@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 000: Intro"
+title: "Post 000: Intro"
 date: "2020-11-15"
 draft: False
 path: "/writing/weekly-post-000"
 featuredImage: "../images/cards/weekly_post_000_card.png"
-tags: ["weekly post"]
+tags: []
 ---
 I'm going to start writing. I've been meaning to for a while, of course (who hasn't?) but I've now seen enough blogs of informal yet interesting content that I'm inspired to start also gathering my thoughts together in small piles each week.
 

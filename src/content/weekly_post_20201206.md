@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 003: Worlding and Gaming"
+title: "Post 003: Worlding and Gaming"
 date: "2020-12-06"
 draft: False
 path: "/writing/weekly-post-003"
 featuredImage: "../images/cards/weekly_post_003_card.png"
-tags: ["weekly post", "spaces", "worldbuilding", "games", "digital art", "gaming"]
+tags: ["spaces", "worldbuilding", "games", "digital art", "gaming"]
 ---
 
 When one thinks of worldbuilding, they might think of extended fantasy epics that have grown beyond the scope of their original medium, like Lord of the Rings or Harry Potter. Those are *worlds*! They're not just books, they have faces and voices to the characters, physical recreations of some locations, games you can immerse yourself in. They really *exist* in a high-dimensional space! How did that happen though?  What makes those seem more *real* than others, and what even is a world?
@@ -69,7 +69,7 @@ Streaming itself is a practice of Worlding by building additional declarative an
 
 ![I worry I'm already dating myself by thinking this Ninja/Drake Fortnite stream screenshot is relevant](../images/ninja_drake_fortnite_stream.png)
 
-In the Small Stuff section of my [first weekly post](https://ksarmentrout.com/writing/weekly-post-001) I mentioned the book [Games: Agency as Art](https://global.oup.com/academic/product/games-9780190052089?cc=us&lang=en&#) by C. Thi Nguyen, in which he talks about the set of games as providing a toolbox for different types of agency. By playing different games and adapting to different rulesets, we are stretching our concepts of how we interact with the world by "trying on" different methods of doing so. The same is happening here: by using interactive containers like video games as a basis for building up an online community, we're able to practice building up different Worlds around them, and further able to experience different Worlds by bouncing between many different streamer communities, each with their own drama, rules, and aliveness. 
+In the Small Stuff section of my [first post](https://ksarmentrout.com/writing/weekly-post-001) I mentioned the book [Games: Agency as Art](https://global.oup.com/academic/product/games-9780190052089?cc=us&lang=en&#) by C. Thi Nguyen, in which he talks about the set of games as providing a toolbox for different types of agency. By playing different games and adapting to different rulesets, we are stretching our concepts of how we interact with the world by "trying on" different methods of doing so. The same is happening here: by using interactive containers like video games as a basis for building up an online community, we're able to practice building up different Worlds around them, and further able to experience different Worlds by bouncing between many different streamer communities, each with their own drama, rules, and aliveness. 
 
 The side effect of rapid iteration of Worlds, however, is a continued fracturing of media culture into smaller communities, articulated by Jay Springett as "[cultural fracking](https://www.thejaymo.net/2019/08/27/097-fracking-whitney/)". His term refers to how mass media producers can only continue making money by exploiting pop culture giants from a past time when mass culture was more comprehensive. In this highly volatile scene of Worlds being created and dying again, there's a similar phenomenon: these Worlds start from "load-bearing" cultural touchpoints and use them as the basis of building new spaces until the spaces can stand alone. Signs indicating that a streamer has created a sufficiently alive and autonomous may include streaming lesser-known or more offbeat games without losing viewership, showing that the streamer's World can stand alone without as much of a need to lean on the popularity of the base interactive container being streamed.
 

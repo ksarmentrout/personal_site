@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 005: Christmas Break"
+title: "Post 005: Christmas Break"
 date: "2020-12-20"
 draft: False
 path: "/writing/weekly-post-005"
 featuredImage: "../images/cards/weekly_post_005_card.png" 
-tags: ["weekly post"]
+tags: []
 ---
 
 Just posting Small Stuff this week - I'm getting ready for Christmas break and also working on a longer piece about what it looks like to release music in 2021 that I might break up into multiple parts. We'll see. For now, enjoy the handful of links below and see you next week!

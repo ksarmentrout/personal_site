@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 001: Wisdom of the Flock"
+title: "Post 001: Wisdom of the Flock"
 date: "2020-11-22"
 draft: False
 path: "/writing/weekly-post-001"
 featuredImage: "../images/cards/weekly_post_001_card.png"
-tags: ["weekly post", "digital art", "Twitter", "personal project", "collective intelligence"]
+tags: ["digital art", "Twitter", "personal project", "collective intelligence"]
 ---
 
 After only having an "Under Construction" landing page up for a few months, I've finally let [Wisdom of the Flock](https://wisdomoftheflock.com) go live this week! I'll do a technical write-up on it at some point but wanted to talk through my thinking behind it on the week of its "official" launch. 

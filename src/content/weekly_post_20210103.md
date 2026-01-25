@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 007: New Models of Music Release Pt. 1 - Abundance"
+title: "Post 007: New Models of Music Release Pt. 1 - Abundance"
 date: "2021-01-03"
 draft: False
 path: "/writing/new-models-of-music-release-pt-1-abundance"
 featuredImage: "../images/cards/weekly_post_007_card.png"
-tags: ["weekly post", "music", "ML", "generative art", "abundance"]
+tags: ["music", "ML", "generative art", "abundance"]
 ---
 
 I remember being stunned in late 2007 when a friend told me that Radiohead put their latest album up for free. I went home from school that evening and rushed to the family computer only to find a colorful, blurry splash page with a small block of text saying the buying window had already closed. Devastating for middle-school me who didn't want to spend money but also wasn't cool enough to torrent the album. 

@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 009: Building Better Online Spaces"
+title: "Post 009: Building Better Online Spaces"
 date: "2021-01-17"
 draft: False
 path: "/writing/building-better-online-spaces"
 featuredImage: "../images/cards/weekly_post_009_card.png"
-tags: ["weekly post", "online", "spaces", "communities", "social media"]
+tags: ["online", "spaces", "communities", "social media"]
 ---
 
 When the radio revolution swept the world, there was no unified vision for what it was supposed to be. In the USSR, its first emergence was as a medium for propaganda; hardly anyone owned their own radio but everyone listened to it from factory buildings and town squares, so it could be used effectively by the state. In the US, radio evolved capitalistically, starting primarily with the National Broadcasting Company (NBC). Private companies formed with their own stations and programming, resulting in ad-supported commercial radio. The British model was different still, led by the British Broadcasting Corporation (BBC) forming as a [non-commercial, public service company](https://en.wikipedia.org/wiki/BBC#From_private_company_towards_public_service_corporation,_1923_to_1926).  

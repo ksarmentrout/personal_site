@@ -1,10 +1,10 @@
 ---
-title: "Weekly Post 006: Buying Tweets"
+title: "Post 006: Buying Tweets"
 date: "2020-12-27"
 draft: False
 path: "/writing/weekly-post-006"
 featuredImage: "../images/cards/weekly_post_006_card.png"
-tags: ["weekly post", "NFTs", "Twitter", "cryptocurrency", "digital ownership", "blockchain", "digital art"]
+tags: ["NFTs", "Twitter", "cryptocurrency", "digital ownership", "blockchain", "digital art"]
 ---
 
 I wouldn't have guessed that last-minute Christmas gifts this year would be other people's tweets. 
