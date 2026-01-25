@@ -92,7 +92,7 @@ const Header = () => (
       <p>
         <HomeLink to="/">Main</HomeLink>
         {/* <NavLink to="/about">About</NavLink> */}
-        <ExternalLink href="https://mossives.com">
+        <ExternalLink href="https://mossives.bandcamp.com/album/forms">
           Music
         </ExternalLink>
         <NavLink to="/blog">Blog</NavLink>
