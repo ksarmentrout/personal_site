@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import { css } from "@emotion/react"
 import styled from "@emotion/styled"
 
-import BlogFooter from "../components/blog_footer"
+import WritingFooter from "../components/writing_footer"
 import { Content, PageHeader } from "../components/style-blocks"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -25,12 +25,12 @@ const ReadingTime = styled.h5`
   font-family: Raleway;
 `
 
-const BlogPage = ({ data }) => {
+const WritingPage = ({ data }) => {
   return (
     <Layout>
-      <SEO title="Blog" />
+      <SEO title="Writing" />
       <Content>
-        <PageHeader>Blog</PageHeader>
+        <PageHeader>Writing</PageHeader>
         {data.allMarkdownRemark.edges
           .filter(({ node }) => {
             const rawDate = node.frontmatter.rawDate
@@ -56,12 +56,12 @@ const BlogPage = ({ data }) => {
             </div>
           ))}
       </Content>
-      <BlogFooter></BlogFooter>
+      <WritingFooter></WritingFooter>
     </Layout>
   )
 }
 
-export default BlogPage
+export default WritingPage
 
 export const query = graphql`
   query {
