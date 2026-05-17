@@ -1,20 +1,20 @@
-import { Link } from "gatsby"
-import styled from "@emotion/styled"
-import PropTypes from "prop-types"
-import React from "react"
-import { OutboundLink } from "gatsby-plugin-google-gtag"
+import { Link } from "gatsby";
+import styled from "@emotion/styled";
+import PropTypes from "prop-types";
+import React from "react";
+import { OutboundLink } from "gatsby-plugin-google-gtag";
 
 const Content = styled.div`
   max-width: 860px;
   padding: 1rem 1.0875rem;
   font-size: 1.2rem;
-`
+`;
 
 const Divider = styled.div`
   margin-left: 15px;
   display: inline-block;
   position: relative;
-`
+`;
 
 const NavLink = styled(Link)`
   margin-left: 15px;
@@ -42,7 +42,7 @@ const NavLink = styled(Link)`
     transform: scaleX(1);
     transform-origin: bottom left;
   }
-`
+`;
 
 const ExternalLink = styled(OutboundLink)`
   margin-left: 15px;
@@ -72,11 +72,11 @@ const ExternalLink = styled(OutboundLink)`
     transform: scaleX(1);
     transform-origin: bottom left;
   }
-`
+`;
 
 const HomeLink = styled(NavLink)`
   margin-left: 0;
-`
+`;
 
 const SiteHeader = styled.header`
   background: transparent;
@@ -84,19 +84,20 @@ const SiteHeader = styled.header`
   align-content: center;
   justify-content: center;
   font-family: Raleway;
-`
+`;
 
 const Header = () => (
   <SiteHeader>
     <Content>
       <p>
         <HomeLink to="/">Main</HomeLink>
+        <NavLink to="/cv">CV</NavLink>
+        <NavLink to="/writing">Writing</NavLink>
+        <NavLink to="/works">Works</NavLink>
         {/* <NavLink to="/about">About</NavLink> */}
         <ExternalLink href="https://mossives.bandcamp.com/album/forms">
           Music
         </ExternalLink>
-        <NavLink to="/writing">Writing</NavLink>
-        <NavLink to="/works">Works</NavLink>
         <Divider>|</Divider>
         <ExternalLink href="https://are.na/keaton-armentrout/">
           Are.na
@@ -107,14 +108,14 @@ const Header = () => (
       </p>
     </Content>
   </SiteHeader>
-)
+);
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
-}
+};
 
 Header.defaultProps = {
   siteTitle: ``,
-}
+};
 
-export default Header
+export default Header;

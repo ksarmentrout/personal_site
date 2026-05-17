@@ -71,6 +71,9 @@ export default () => (
         <NavLink to="/works">Works</NavLink>
       </li>
       <li>
+        <NavLink to="/cv">CV</NavLink>
+      </li>
+      <li>
         <ExternalLink href="https://mossives.com">
           Music
         </ExternalLink>

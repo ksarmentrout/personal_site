@@ -71,3 +71,6 @@ yarn-error.log
 
 # pycharm
 .idea/
+
+# playwright testing artifacts
+.playwright-mcp/

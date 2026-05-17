@@ -39,7 +39,6 @@ const WritingFooter = () => {
           <StyledInLink to="/tags">All Tags</StyledInLink>
           <StyledInLink to="/rss.xml">RSS Feed</StyledInLink>
         </LinkStack>
-        <FooterTags></FooterTags>
     </Footer>
   </div>
   )
