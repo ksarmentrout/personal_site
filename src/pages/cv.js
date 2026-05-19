@@ -4,6 +4,16 @@ import { Content, PageHeader, StyledExLink } from "../components/style-blocks";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 
+const ContactInfo = styled.p`
+  text-align: center;
+  font-family: Raleway;
+  font-size: 0.9rem;
+  color: #606060;
+  margin-top: -0.7rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.03em;
+`;
+
 const DownloadLink = styled.a`
   display: block;
   text-align: center;
@@ -11,7 +21,7 @@ const DownloadLink = styled.a`
   font-family: Raleway;
   font-size: 0.9rem;
   text-decoration: none;
-  margin-top: -0.8rem;
+  margin-top: -0.7rem;
   margin-bottom: 0.5rem;
   &:hover {
     text-decoration: underline;
@@ -121,8 +131,15 @@ const CVPage = () => (
     <SEO title="CV" />
     <Content>
       <PageHeader>CV</PageHeader>
+      <DownloadLink
+        href="mailto:keaton@ksarmentrout.com"
+        style={{ color: "#606060" }}
+      >
+        keaton@ksarmentrout.com
+      </DownloadLink>
+      <ContactInfo>Seattle, WA</ContactInfo>
       <DownloadLink href="/files/armentrout_resume.pdf" download>
-        PDF Download
+        Resume Download
       </DownloadLink>
 
       <SectionHeader>Experience</SectionHeader>
